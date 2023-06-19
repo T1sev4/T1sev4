@@ -12,11 +12,10 @@ I'm Frontend Developer
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=t1sev4&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=t1sev4&theme=radical&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=t1sev4&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Use%20the%20weekend%20to%20build%20the%20life%20you%20want,%20not%20to%20escape%20the%20life%20you%20have)
 
